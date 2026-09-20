@@ -1,0 +1,7 @@
+{
+  "name": "PDF & Image Toolkit",
+  "description": "All-in-one offline toolkit to merge PDFs, split PDFs, convert images to PDF, and convert image formats with zero cloud dependencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
